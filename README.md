@@ -19,3 +19,8 @@ The graph depicts the legal connections between squares on a chessboard. A knigh
 
 ![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/assets/114800086/7c25f7b5-4616-4d56-9b09-d076fb339fac)
 
+The bishop chess piece moves in any direction diagonally. Chess rules state that there is no limit to the number of squares a bishop can travel on the chessboard, as long as there is not another piece obstructing its path.
+
+![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/assets/114800086/f0c13e2d-9cbe-40b6-9f8a-4f6a7820b1da)
+
+
