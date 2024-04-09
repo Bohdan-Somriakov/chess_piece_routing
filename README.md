@@ -14,3 +14,8 @@ These libraries are essential tools in the Python scientific computing ecosystem
 The algorithm constructs a path through a graph representation of a chessboard. This path demonstrates the legal movements of a specified chess piece, ensuring that each square is visited at most once.
 
 ![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/assets/114800086/f7e36dd0-c853-45fc-a5b6-bad875582f39)
+
+The graph depicts the legal connections between squares on a chessboard. A knight's movement follows a specific pattern: it traverses either two squares vertically and one square horizontally, or vice versa, forming an "L" shape.
+
+![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/assets/114800086/e5fe7dce-7656-463b-8b35-eb4606b7844e)
+
