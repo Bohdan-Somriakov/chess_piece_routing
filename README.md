@@ -12,4 +12,5 @@ These libraries are essential tools in the Python scientific computing ecosystem
 
 ## Introduction
 The algorithm constructs a path through a graph representation of a chessboard. This path demonstrates the legal movements of a specified chess piece, ensuring that each square is visited at most once.
+
 ![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/assets/114800086/f7e36dd0-c853-45fc-a5b6-bad875582f39)
