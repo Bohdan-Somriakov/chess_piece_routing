@@ -61,3 +61,8 @@ Pretty self-explanatory
 | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/4.jpg) |
 
 PATH: [1, 8, 5, 14, 25, 18, 21, 12, 9, 2, 11, 22, 19, 10, 3, 6, 17, 24, 15, 4, 7, 16, 13, 20, 23]
+
+### Example 
+This algorithm exhibits the capability of being applied to any chess piece, irrespective of the dimensions of the chessboard. An illustrative example is provided for a 10x10 board.
+
+![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/more_examples/knight_10x10_width.png)
