@@ -57,15 +57,24 @@ Pretty self-explanatory
 
 |  |  |
 |---------|---------|
-| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/2.jpg) |
-| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/4.jpg) |
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/random_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/random_knight/2.jpg) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/random_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/random_knight/4.jpg) |
 
 PATH: [1, 8, 5, 14, 25, 18, 21, 12, 9, 2, 11, 22, 19, 10, 3, 6, 17, 24, 15, 4, 7, 16, 13, 20, 23]
 
 ### Example 
 This algorithm exhibits the capability of being applied to any chess piece, irrespective of the dimensions of the chessboard. An illustrative example is provided for a 10x10 board.
 
-![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/more_examples/knight_10x10_width.png)
+![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/more_examples/knight_10x10_width.png)
 
 PATH: [1, 13, 5, 17, 9, 30, 18, 10, 29, 8, 20, 39, 60, 79, 100, 88, 80, 99, 87, 95, 83, 91, 72, 51, 32, 11, 3, 22, 41, 62, 81, 93, 74, 82, 61, 53, 34, 15, 7, 19, 40, 28, 16, 4, 12, 24, 36, 48, 27, 6, 14, 2, 21, 42, 23, 31, 43, 35, 47, 26, 38, 50, 69, 90, 98, 86, 94, 73, 92, 71, 52, 33, 25, 44, 63, 55, 67, 59, 78, 70, 49, 37, 45, 57, 65, 46, 54, 66, 58, 77, 85, 64, 56, 75, 96, 84, 76, 68, 89, 97]
 
+## Traversing to a specific vertex
+
+The mechanism of backward logical inference consists of verifying the validity of a certain hypothesis (judgment or fact) that is put forward by the user and verified by the ES [expert system]. In doing so, the truth of the right parts of the productions, rather than the left parts, is checked, and the question is formulated as follows: "What is necessary for the right part of the production rule to be valid (true), and are there necessary judgments in working memory?"
+
+When implementing this mechanism, new facts are not added to the working memory; instead, only the presence of the necessary judgments at the next step of the algorithm is checked. In some production systems, the working memory is replenished with new facts.
+
+![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/assets/table_with_ifs.png)
+
+The presented algorithm executes until it successfully locates the designated vertex.
