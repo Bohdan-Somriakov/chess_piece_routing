@@ -13,15 +13,15 @@ These libraries are essential tools in the Python scientific computing ecosystem
 ## Introduction
 The algorithm constructs a path through a graph representation of a chessboard. This path demonstrates the legal movements of a specified chess piece, ensuring that each square is visited at most once.
 
-![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assetss/intro/5x5_chess_board.png)
+![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/intro/5x5_chess_board.png)
 
 The graph depicts the legal connections between squares on a chessboard. A knight's movement follows a specific pattern: it traverses either two squares vertically and one square horizontally, or vice versa, forming an "L".
 
-![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assetss/intro/5x5_knight.png)
+![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/intro/5x5_knight.png)
 
 The bishop chess piece moves in any direction diagonally. Chess rules state that there is no limit to the number of squares a bishop can travel on the chessboard, as long as there is not another piece obstructing its path.
 
-![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assetss/intro/5x5_bishop.png)
+![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/intro/5x5_bishop.png)
 
 ## Traversing the entire graph without revisiting any node
 Many rules can be activated and placed in the working list of rules during each cycle. In addition, the results of activating rules from previous cycles remain in the working list of rules, unless these rules are deactivated due to the fact that their left-hand sides are no longer satisfied. Thus, during program execution, the number of activated rules in the working list of rules changes.
@@ -37,6 +37,9 @@ Thus, priority is given to the depth-first search principle in the problem state
 In the src code called width strategy.
 
 Breadth Strategy (breadth) - opposite to the depth strategy and is designed to implement a breadth-first search in the problem state space. The rules selected to the list based on the data that were included in the working memory relatively long time ago are located earlier in this list than the rules that were selected using more recent data. In this case, the first activated rule from the conflict set is chosen.
+
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/1) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/2) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/3) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/4) |
 
 ### Random strategy
 Pretty self-explanatory
