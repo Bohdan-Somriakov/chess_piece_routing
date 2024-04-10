@@ -35,8 +35,8 @@ Thus, priority is given to the depth-first search principle in the problem state
 
 |  |  |
 |---------|---------|
-| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/2.jpg) |
-| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/4.jpg) |
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/1.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/2.png) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/3.png) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/4.png) |
 
 ### Breadth strategy
 In the src code called width strategy.
