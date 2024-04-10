@@ -50,3 +50,8 @@ Breadth Strategy (breadth) - opposite to the depth strategy and is designed to i
 
 ### Random strategy
 Pretty self-explanatory
+
+|  |  |
+|---------|---------|
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/2.jpg) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/random_knight/4.jpg) |
