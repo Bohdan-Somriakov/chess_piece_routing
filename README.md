@@ -86,6 +86,7 @@ Analysis of Knight Maneuvers on a Chessboard: Exploring Various Approaches to Re
 | depth | breadth | random |
 |---------|---------|---------|
 | ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_random_to_9.png)
+||||
 |[1, 12, 21, 18, 25, 14, 5, 8, 19, 22, 11, 2, 9]|[1, 8, 5, 14, 25, 18, 21, 12, 3, 6, 17, 24, 15, 4, 7, 16, 23, 20, 9]|[1, 12, 21, 18, 25, 14, 5, 8, 11, 2, 9]|
 
 
@@ -94,6 +95,7 @@ Analysis of Bishop Maneuvers on a Chessboard: Exploring Various Approaches to Re
 | depth | breadth | random |
 |---------|---------|---------|
 | ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/bishop_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/bishop_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/bishop_random_to_9.png)
+||||
 |[1, 25, 19, 23, 15, 3, 11, 7, 13, 21, 17, 9]|[1, 25, 7, 3, 11, 23, 15, 19, 13, 5, 9]|[1, 25, 7, 11, 3, 15, 23, 19, 13, 5, 17, 21, 9]|
 
 ### Example
