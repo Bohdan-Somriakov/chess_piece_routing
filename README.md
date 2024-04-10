@@ -83,7 +83,7 @@ The presented algorithm executes until it successfully locates the designated ve
 
 Analysis of Knight Maneuvers on a Chessboard: Exploring Various Approaches to Reach Square "9".
 
-| depth | bredth | random |
+| depth | breadth | random |
 |---------|---------|---------|
 | ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_random_to_9.png)
 |---------|---------|---------|
@@ -92,7 +92,7 @@ Analysis of Knight Maneuvers on a Chessboard: Exploring Various Approaches to Re
 
 Analysis of Bishop Maneuvers on a Chessboard: Exploring Various Approaches to Reach Square "9".
 
-| depth | bredth | random |
+| depth | breadth | random |
 |---------|---------|---------|
 | ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/bishop_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/bishop_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/bishop_random_to_9.png)
 |---------|---------|---------|
