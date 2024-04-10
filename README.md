@@ -84,5 +84,5 @@ The presented algorithm executes until it successfully locates the designated ve
 | depth | bredth | random |
 |---------|---------|---------|
 | ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_random_to_9.png)
-|---------|---------|---------|
+||||
 |[1, 12, 21, 18, 25, 14, 5, 8, 19, 22, 11, 2, 9]|[1, 8, 5, 14, 25, 18, 21, 12, 3, 6, 17, 24, 15, 4, 7, 16, 23, 20, 9]|[1, 12, 21, 18, 25, 14, 5, 8, 11, 2, 9]|
