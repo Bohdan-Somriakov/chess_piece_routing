@@ -100,7 +100,7 @@ Analysis of Bishop Maneuvers on a Chessboard: Exploring Various Approaches to Re
 
 ### Example
 
-This algorithm exhibits the capability of being applied to any chess piece, irrespective of the dimensions of the chessboard. An illustrative example is provided for a 15x15 board. The algorithm utilized is breadth-first search. The objective is to reach a target value of 100, starting from the initial point of 1.
+This algorithm exhibits the capability of being applied to any chess piece, irrespective of the dimensions of the chessboard. An illustrative example is provided for a 15x15 board. The algorithm utilized is breadth search. The objective is to reach a target value of 100, starting from the initial point of 1.
 
 ![knight_15x15_width](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/examples/knight_15x15_width.png)
 
