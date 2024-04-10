@@ -35,8 +35,8 @@ Thus, priority is given to the depth-first search principle in the problem state
 
 |  |  |
 |---------|---------|
-| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/1.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/2.png) |
-| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/3.png) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/depth_knight/4.png) |
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/depth_knight/1.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/depth_knight/2.png) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/depth_knight/3.png) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/depth_knight/4.png) |
 
 PATH: [1, 12, 21, 18, 25, 14, 5, 8, 19, 22, 11, 2, 9, 20, 23, 16, 7, 4, 15, 24, 17, 6, 13, 10, 3]
 
