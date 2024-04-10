@@ -53,7 +53,7 @@ Breadth Strategy (breadth) - opposite to the depth strategy and is designed to i
 PATH: [1, 8, 5, 14, 25, 18, 21, 12, 3, 6, 17, 24, 15, 4, 7, 16, 23, 20, 9, 2, 11, 22, 13, 10, 19]
 
 ### Random strategy
-Pretty self-explanatory
+Pretty self-explanatory.
 
 |  |  |
 |---------|---------|
