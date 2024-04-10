@@ -15,7 +15,7 @@ The algorithm constructs a path through a graph representation of a chessboard. 
 
 ![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assetss/intro/5x5_chess_board.png)
 
-The graph depicts the legal connections between squares on a chessboard. A knight's movement follows a specific pattern: it traverses either two squares vertically and one square horizontally, or vice versa, forming an "L" shape.https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assetss/intro/5x5_bishop.png
+The graph depicts the legal connections between squares on a chessboard. A knight's movement follows a specific pattern: it traverses either two squares vertically and one square horizontally, or vice versa, forming an "L".
 
 ![image](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assetss/intro/5x5_knight.png)
 
