@@ -47,8 +47,8 @@ Breadth Strategy (breadth) - opposite to the depth strategy and is designed to i
 
 |  |  |
 |---------|---------|
-| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/2.jpg) |
-| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/4.jpg) |
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/bredth_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/bredth_knight/2.jpg) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/bredth_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/entire_graph/bredth_knight/4.jpg) |
 
 PATH: [1, 8, 5, 14, 25, 18, 21, 12, 3, 6, 17, 24, 15, 4, 7, 16, 23, 20, 9, 2, 11, 22, 13, 10, 19]
 
@@ -75,6 +75,6 @@ The mechanism of backward logical inference consists of verifying the validity o
 
 When implementing this mechanism, new facts are not added to the working memory; instead, only the presence of the necessary judgments at the next step of the algorithm is checked. In some production systems, the working memory is replenished with new facts.
 
-![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/assets/table_with_ifs.png)
+![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/theory/table_with_ifs.png)
 
 The presented algorithm executes until it successfully locates the designated vertex.
