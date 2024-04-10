@@ -82,5 +82,5 @@ The presented algorithm executes until it successfully locates the designated ve
 ### Strategies comparison
 
 | depth | bredth | random |
-|---------|---------|
+|---------|---------|---------|
 | ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_random_to_9.png)
