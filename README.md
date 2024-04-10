@@ -80,6 +80,7 @@ When implementing this mechanism, new facts are not added to the working memory;
 The presented algorithm executes until it successfully locates the designated vertex.
 
 ### Strategies comparison
+
 | depth | bredth | random |
 |---------|---------|
-| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/1.jpg/knight_depth_to_9.png) | (https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/1.jpg/knight_width_to_9.png) | (https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/1.jpg/knight_random_to_9.png)
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_depth_to_9.png) | ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_width_to_9.png) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/to_given_node/knight_random_to_9.png)
