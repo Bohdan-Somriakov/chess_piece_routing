@@ -66,3 +66,6 @@ PATH: [1, 8, 5, 14, 25, 18, 21, 12, 9, 2, 11, 22, 19, 10, 3, 6, 17, 24, 15, 4, 7
 This algorithm exhibits the capability of being applied to any chess piece, irrespective of the dimensions of the chessboard. An illustrative example is provided for a 10x10 board.
 
 ![10x10_width_knight](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/more_examples/knight_10x10_width.png)
+
+PATH: [1, 13, 5, 17, 9, 30, 18, 10, 29, 8, 20, 39, 60, 79, 100, 88, 80, 99, 87, 95, 83, 91, 72, 51, 32, 11, 3, 22, 41, 62, 81, 93, 74, 82, 61, 53, 34, 15, 7, 19, 40, 28, 16, 4, 12, 24, 36, 48, 27, 6, 14, 2, 21, 42, 23, 31, 43, 35, 47, 26, 38, 50, 69, 90, 98, 86, 94, 73, 92, 71, 52, 33, 25, 44, 63, 55, 67, 59, 78, 70, 49, 37, 45, 57, 65, 46, 54, 66, 58, 77, 85, 64, 56, 75, 96, 84, 76, 68, 89, 97]
+
