@@ -38,8 +38,8 @@ In the src code called width strategy.
 
 Breadth Strategy (breadth) - opposite to the depth strategy and is designed to implement a breadth-first search in the problem state space. The rules selected to the list based on the data that were included in the working memory relatively long time ago are located earlier in this list than the rules that were selected using more recent data. In this case, the first activated rule from the conflict set is chosen.
 
-| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/1) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/2) |
-| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/3) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/4) |
+| ![1](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/1.jpg) | ![3](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/2.jpg) |
+| ![2](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/3.jpg) | ![4](https://github.com/Bohdan-Somriakov/chess_piece_routing/blob/main/assets/bredth_knight/4.jpp) |
 
 ### Random strategy
 Pretty self-explanatory
